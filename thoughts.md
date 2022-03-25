@@ -5,3 +5,10 @@ I am committed to using and updating my calendar everyday.
 I am committed to a 5 minute pom break every 30 minutes.
 
 Shoutout to my wife (Whit).  Could not be here without you.  Thanks for believing in me, loving me, and being such a good momma at the same time!  Love you!!
+
+
+GitHub is interesting
+
+helpful commmands
+git remote -v  
+//this checks that you are connected to GitHub after adding origin
